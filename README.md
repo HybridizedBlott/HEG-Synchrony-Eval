@@ -15,3 +15,14 @@ This dataset includes readings extracted from two individuals performing the fol
 - Watching media
 - Meditating
 
+## Acknowledgments:
+
+We'd like to thank Alfredo Aris for providing the tools necessary in conducting this analysis, aiding us in the setup of required software, and guiding us towards our current project.
+
+### Collaborators:
+- **Alfredo Aris** - FlashFrog
+- **Mirza Ahmedhi** - University of Guelph
+- **Isha Baxi** - University of Guelph
+- **Vlad Bularca** - University of Guelph
+- **Thomas Tekle** - University of Guelph
+
