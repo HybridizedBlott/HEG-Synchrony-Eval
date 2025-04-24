@@ -21,7 +21,7 @@ We'd like to thank Alfredo Aris for providing the tools necessary in conducting 
 
 ### Collaborators:
 - **Alfredo Aris** - FlashFrog
-- **Mirza Ahmedhi** - University of Guelph
+- **Mirza Ahmadhi** - University of Guelph
 - **Isha Baxi** - University of Guelph
 - **Vlad Bularca** - University of Guelph
 - **Thomas Tekle** - University of Guelph
